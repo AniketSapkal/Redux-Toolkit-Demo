@@ -38,7 +38,10 @@ Dispatching actions with useDispatch
 
 🧪 How to Run
 git clone https://github.com/AniketSapkal/redux-toolkit-demo.git
+
 cd redux-toolkit-demo
+
 npm install
+
 npm start
 
